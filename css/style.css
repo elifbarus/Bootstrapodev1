@@ -1,0 +1,22 @@
+.color {
+    background-color: rgb(230, 230, 230);
+}
+
+.alignn {
+    text-align: center;
+}
+
+.ul { 
+    display:table; margin:0 auto;
+}
+
+.button {
+    text-align: center;
+}
+
+.space {
+    margin-left: 20px; 
+    margin-right: 20px;
+}
+
+  
